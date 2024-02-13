@@ -1,0 +1,10 @@
+Variables: Variables are containers for storing data values. They are used to label and store information that can be referenced and manipulated in a program.
+Lists: Lists are ordered collections of items, allowing for easy organization and manipulation of data. They support various operations like appending, indexing, slicing, and more.
+Functions: Functions are blocks of reusable code that perform a specific task. They promote code reuse, modularity, and abstraction, enhancing the readability and maintainability of code.
+While-loop: A while-loop is a control flow statement that repeatedly executes a block of code as long as a specified condition is true. It is useful for tasks that require iteration until a certain condition is met.
+Methods: Methods are functions that are associated with objects in object-oriented programming. They encapsulate behavior specific to the object's type and are invoked using dot notation.
+Match-case: Match-case is a feature in Python used for pattern matching. It allows for concise and readable code by matching values against a series of patterns and executing corresponding code blocks.
+For-loop: A for-loop is a control flow statement used for iterating over a sequence (e.g., lists, tuples, strings) or other iterable objects. It simplifies repetitive tasks by executing a block of code for each item in the sequence.
+Type-conversion: Type conversion, also known as typecasting, is the process of converting a value from one data type to another. It is commonly used to ensure compatibility between different data types or to perform operations that require specific types.
+List Indices: List indices are numeric values used to access elements in a list. They specify the position of an item within the list, allowing for efficient retrieval and manipulation of data.
+Tuples: Tuples are ordered collections of immutable elements, typically used to store related but heterogeneous data. They offer advantages like immutability, easy packing and unpacking, and support for multiple assignment.
